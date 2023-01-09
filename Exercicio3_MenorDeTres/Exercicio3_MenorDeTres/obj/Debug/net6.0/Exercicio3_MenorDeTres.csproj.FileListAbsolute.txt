@@ -1,0 +1,15 @@
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\bin\Debug\net6.0\Exercicio3_MenorDeTres.exe
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\bin\Debug\net6.0\Exercicio3_MenorDeTres.deps.json
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\bin\Debug\net6.0\Exercicio3_MenorDeTres.runtimeconfig.json
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\bin\Debug\net6.0\Exercicio3_MenorDeTres.dll
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\bin\Debug\net6.0\Exercicio3_MenorDeTres.pdb
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\obj\Debug\net6.0\Exercicio3_MenorDeTres.csproj.AssemblyReference.cache
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\obj\Debug\net6.0\Exercicio3_MenorDeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\obj\Debug\net6.0\Exercicio3_MenorDeTres.AssemblyInfoInputs.cache
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\obj\Debug\net6.0\Exercicio3_MenorDeTres.AssemblyInfo.cs
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\obj\Debug\net6.0\Exercicio3_MenorDeTres.csproj.CoreCompileInputs.cache
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\obj\Debug\net6.0\Exercicio3_MenorDeTres.dll
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\obj\Debug\net6.0\refint\Exercicio3_MenorDeTres.dll
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\obj\Debug\net6.0\Exercicio3_MenorDeTres.pdb
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\obj\Debug\net6.0\Exercicio3_MenorDeTres.genruntimeconfig.cache
+C:\Program Files\WS-VS2023\Exercicio3_MenorDeTres\Exercicio3_MenorDeTres\obj\Debug\net6.0\ref\Exercicio3_MenorDeTres.dll

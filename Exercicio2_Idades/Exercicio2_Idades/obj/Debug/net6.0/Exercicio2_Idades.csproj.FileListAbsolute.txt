@@ -1,0 +1,15 @@
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\bin\Debug\net6.0\Exercicio2_Idades.exe
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\bin\Debug\net6.0\Exercicio2_Idades.deps.json
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\bin\Debug\net6.0\Exercicio2_Idades.runtimeconfig.json
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\bin\Debug\net6.0\Exercicio2_Idades.dll
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\bin\Debug\net6.0\Exercicio2_Idades.pdb
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\obj\Debug\net6.0\Exercicio2_Idades.csproj.AssemblyReference.cache
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\obj\Debug\net6.0\Exercicio2_Idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\obj\Debug\net6.0\Exercicio2_Idades.AssemblyInfoInputs.cache
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\obj\Debug\net6.0\Exercicio2_Idades.AssemblyInfo.cs
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\obj\Debug\net6.0\Exercicio2_Idades.csproj.CoreCompileInputs.cache
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\obj\Debug\net6.0\Exercicio2_Idades.dll
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\obj\Debug\net6.0\refint\Exercicio2_Idades.dll
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\obj\Debug\net6.0\Exercicio2_Idades.pdb
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\obj\Debug\net6.0\Exercicio2_Idades.genruntimeconfig.cache
+C:\Program Files\WS-VS2023\Exercicio2_Idades\Exercicio2_Idades\obj\Debug\net6.0\ref\Exercicio2_Idades.dll
