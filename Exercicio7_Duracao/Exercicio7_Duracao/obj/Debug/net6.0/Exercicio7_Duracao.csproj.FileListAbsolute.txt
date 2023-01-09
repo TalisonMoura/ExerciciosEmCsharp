@@ -1,0 +1,15 @@
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\bin\Debug\net6.0\Exercicio7_Duracao.exe
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\bin\Debug\net6.0\Exercicio7_Duracao.deps.json
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\bin\Debug\net6.0\Exercicio7_Duracao.runtimeconfig.json
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\bin\Debug\net6.0\Exercicio7_Duracao.dll
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\bin\Debug\net6.0\Exercicio7_Duracao.pdb
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\obj\Debug\net6.0\Exercicio7_Duracao.csproj.AssemblyReference.cache
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\obj\Debug\net6.0\Exercicio7_Duracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\obj\Debug\net6.0\Exercicio7_Duracao.AssemblyInfoInputs.cache
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\obj\Debug\net6.0\Exercicio7_Duracao.AssemblyInfo.cs
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\obj\Debug\net6.0\Exercicio7_Duracao.csproj.CoreCompileInputs.cache
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\obj\Debug\net6.0\Exercicio7_Duracao.dll
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\obj\Debug\net6.0\refint\Exercicio7_Duracao.dll
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\obj\Debug\net6.0\Exercicio7_Duracao.pdb
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\obj\Debug\net6.0\Exercicio7_Duracao.genruntimeconfig.cache
+C:\Program Files\WS-VS2023\Exercicio7_Duracao\Exercicio7_Duracao\obj\Debug\net6.0\ref\Exercicio7_Duracao.dll
