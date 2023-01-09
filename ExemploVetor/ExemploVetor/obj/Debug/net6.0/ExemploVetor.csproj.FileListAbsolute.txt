@@ -1,0 +1,15 @@
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\bin\Debug\net6.0\ExemploVetor.exe
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\bin\Debug\net6.0\ExemploVetor.deps.json
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\bin\Debug\net6.0\ExemploVetor.runtimeconfig.json
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\bin\Debug\net6.0\ExemploVetor.dll
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\bin\Debug\net6.0\ExemploVetor.pdb
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\obj\Debug\net6.0\ExemploVetor.csproj.AssemblyReference.cache
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\obj\Debug\net6.0\ExemploVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\obj\Debug\net6.0\ExemploVetor.AssemblyInfoInputs.cache
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\obj\Debug\net6.0\ExemploVetor.AssemblyInfo.cs
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\obj\Debug\net6.0\ExemploVetor.csproj.CoreCompileInputs.cache
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\obj\Debug\net6.0\ExemploVetor.dll
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\obj\Debug\net6.0\refint\ExemploVetor.dll
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\obj\Debug\net6.0\ExemploVetor.pdb
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\obj\Debug\net6.0\ExemploVetor.genruntimeconfig.cache
+C:\Program Files\WS-VS2023\ExemploVetor\ExemploVetor\obj\Debug\net6.0\ref\ExemploVetor.dll
